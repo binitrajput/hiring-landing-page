@@ -1,0 +1,27 @@
+[
+  {
+    "id": "8fb9687c-9a1a-4a84-9a9b-b62a210f1581",
+    "createdAt": "2026-10-14T05:15:15.191Z",
+    "name": "Ava Patel",
+    "email": "ava@example.com",
+    "phone": "+1 (555) 123-4567",
+    "linkedinUrl": "https://linkedin.com/in/avapatel",
+    "currentRole": "Product Designer",
+    "whyFit": "I have led AI-enabled product discovery and customer research for high-growth teams. I enjoy turning messy opportunities into clear experiments and shipping tools that improve decisions and workflows across the business.",
+    "resumeUrl": null,
+    "source": "ai-native-innovator-landing-page"
+  },
+  {
+    "id": "03c3722d-c2c8-423b-a0ff-4c6f6d3b5491",
+    "createdAt": "2026-10-14T05:32:00.878Z",
+    "name": "Binit",
+    "email": "binitrajput5@gmail.com",
+    "phone": "6360887249",
+    "linkedinUrl": "https://www.linkedin.com/in/binit-rajput-307a923b9/",
+    "currentRole": "AI Intern",
+    "whyFit": "Hi, The workflow itself is correct; the only remaining issue is a type mismatch on the admin table, so I’m correcting the submission sha",
+    "resumeUrl": "/uploads/1791955920877-binit.pdf",
+    "source": "ai-native-innovator-landing-page",
+    "status": "new"
+  }
+]
